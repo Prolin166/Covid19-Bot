@@ -1,0 +1,7 @@
+**/obj/
+**/bin/
+.idea/
+/.vs
+/Draeger.DatenloggerBM/DatenloggerBM.db
+/Arduino/Programm_Datenlogger.ino.mega.hex
+/Arduino/Programm_Datenlogger.ino.with_bootloader.mega.hex
