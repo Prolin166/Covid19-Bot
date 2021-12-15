@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Telegram.Bot.Requests;
-
-namespace CovidBot
+﻿namespace CovidBot
 {
     public class DataModel
     {

@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Reflection.Metadata.Ecma335;
-using System.Text;
 using Telegram.Bot;
 using Telegram.Bot.Args;
-using Telegram.Bot.Requests;
-using Telegram.Bot.Types;
 
 namespace CovidBot
 {

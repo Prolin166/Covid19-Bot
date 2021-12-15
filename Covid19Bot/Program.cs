@@ -17,7 +17,7 @@ namespace CovidBot
         {
             Console.WriteLine("Bot gestartet");
             _covid19Service = new Covid19Service("https://api.covid19api.com/");
-            _telegramService = new TelegramService(new TelegramBotClient("addtelegrambottokenhere"));
+            _telegramService = new TelegramService(new TelegramBotClient("XXX"));
 
             while (DateTime.Now.Hour != 10 || DateTime.Now.Minute != 00 || DateTime.Now.Second != 00)
             {
